@@ -35,3 +35,7 @@
 ![](image/5.png)
 
 ![](image/6.png)
+
+## Диплом
+
+![](image/7.png)

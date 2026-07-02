@@ -6,7 +6,7 @@ from datetime import datetime
 from tzlocal import get_localzone
 
 # Конфигурация
-API_KEY = "c206bef2-e21c-49ce-9689-88b5fe98e756"
+API_KEY = "YANDEX_API_KEY"
 LOCAL_TZ = get_localzone()
 
 # Инициализация структур данных
